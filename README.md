@@ -2,6 +2,7 @@ Member-1 [Abdul Foyez]:
 
 Overview of task completion:
 
+ $$
  Created a GitHub repo.
  Added team members as collaborators.
  Set up a rule for the main branch to disallow direct commits.
@@ -11,5 +12,6 @@ Overview of task completion:
  Merged the main branch with the created branch.
  Enhanced the README.md file in the main branch with comprehensive documentation.
 
+ $$
 
 
